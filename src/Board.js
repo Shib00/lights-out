@@ -56,7 +56,6 @@ class Board extends Component {
 
 
   /** Render game board or winning message. */
-
   render() {
     return (
       <div>
