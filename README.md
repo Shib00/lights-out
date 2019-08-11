@@ -5,9 +5,16 @@ _**Lights Out**_ is an electronic gamereleased by Tiger Electronics in 1995. The
 *This is made using **react***
 
 
+## Installation
+
+1. clone or download the files
+2. go into that directory
+3. run npm install (this means npm should be installed on your device)
+4. run npm start
+
 ## How to play ?
 
-Just give it a shot 
+Head over to the website and give it a try !
 
 ## Hosted at -- 
 [https://intense-scrubland-65606.herokuapp.com/](https://intense-scrubland-65606.herokuapp.com/)
